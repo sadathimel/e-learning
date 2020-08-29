@@ -1,0 +1,26 @@
+.Course-container{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin: 5px;
+}
+
+.course-list{
+    margin: 10px;
+    padding: 10px;
+    display: 70%;
+    
+}
+.Course-container img{
+    padding: 3px;
+    width: 240px;
+    height: 135px;
+}
+
+.enroll-btn{
+    background-color: greenyellow;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+

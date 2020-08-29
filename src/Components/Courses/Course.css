@@ -1,0 +1,17 @@
+.course-container{
+    display: flex;    
+}
+
+.Course{
+    width: 70%;
+    margin: 20px;
+    border-right: 2px solid lightgray;
+    
+    
+}
+
+
+.Enrolled h3{
+    text-align: center;
+  
+}
